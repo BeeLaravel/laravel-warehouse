@@ -3,5 +3,8 @@
         "psr-4": {
             "Beesoft\\LaravelWarehouse\\": "src"
         }
-    }
+    },
+    "bin": [
+        "bin/beesoft"
+    ]
 }
