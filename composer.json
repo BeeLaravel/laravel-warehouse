@@ -1,7 +1,7 @@
 {
     "autoload": {
         "psr-4": {
-            "Beesoft\\LaravelWarehouse\\": "src"
+            "Beesoft\\Warehouse\\": "src"
         }
     },
     "bin": [
